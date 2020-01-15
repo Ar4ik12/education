@@ -3,4 +3,15 @@
  */
 
 @import 'normalize.scss';
+@import './helpers/variables.scss';
 @import 'base.scss';
+@import './helpers/fonts.scss';
+
+@import './section/header.scss';
+@import './section/ofis.scss';
+@import './section/search-you.scss';
+@import './section/video.scss';
+@import './section/go-it.scss';
+@import './section/mission.scss';
+@import './section/medal.scss';
+@import './section/footer.scss';
